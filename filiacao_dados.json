@@ -1,0 +1,346 @@
+[
+  {
+    "from": "ANA LUIZA COELHO NETTO",
+    "to": "Adriano Severo Figueiro",
+    "kind": "formacao",
+    "year": "2005",
+    "level": "Doutorado",
+    "id": "17"
+  },
+  {
+    "from": "Adriano Severo Figueiro",
+    "to": "Marlon Roxo Madeira",
+    "kind": "orientacao",
+    "year": "2022",
+    "title": "IDENTIFICAÇÃO DAS UNIDADES DE PAISAGEM DO MUNICÍPIO DE CAÇAPAVA DO SUL – RS: SUBSÍDIOS À INTERPRETAÇÃO GEOPATRIMONIAL EM ROTEIROS GEOTURÍSTICOS",
+    "id": "143"
+  },
+  {
+    "from": "ANA LUIZA COELHO NETTO",
+    "to": "Andre Batista de Negreiros",
+    "kind": "formacao",
+    "year": "2006",
+    "level": "Mestrado",
+    "id": "20"
+  },
+  {
+    "from": "Andre Batista de Negreiros",
+    "to": "Winkler Jose Pinto",
+    "kind": "orientacao",
+    "year": "2020",
+    "title": "QUALIDADE AMBIENTAL EM PLANTAÇÕES DE EUCALYPTUS SPP. DETERMINADA A PARTIR DE PROCESSOS FUNCIONAIS DA SERAPILHEIRA",
+    "id": "123"
+  },
+  {
+    "from": "ANA LUIZA COELHO NETTO",
+    "to": "Andre Batista de Negreiros",
+    "kind": "formacao",
+    "year": "2011",
+    "level": "Doutorado",
+    "id": "27"
+  },
+  {
+    "from": "ADRYANE GORAYEB NOGUEIRA CAETANO",
+    "to": "Eder Mileno Silva de Paula",
+    "kind": "formacao",
+    "year": "2017",
+    "level": "Doutorado",
+    "id": "88"
+  },
+  {
+    "from": "Eder Mileno Silva de Paula",
+    "to": "Elexandre Martins Pereira",
+    "kind": "orientacao",
+    "year": "2024",
+    "title": "ANÁLISE DAS UNIDADES GEOECOLOGICAS DA REFÚGIO BIÓLOGICO DA VIDA SILVESTRE METRÓPOLE DA AMAZÔNIA - PARÁ",
+    "id": "176"
+  },
+  {
+    "from": "MANOEL DO COUTO FERNANDES",
+    "to": "Gustavo Mota de Sousa",
+    "kind": "formacao",
+    "year": "2009",
+    "level": "Mestrado",
+    "id": "23"
+  },
+  {
+    "from": "Gustavo Mota de Sousa",
+    "to": "Mateus Ribeiro Rodriguez",
+    "kind": "orientacao",
+    "year": "2023",
+    "title": "DINÂMICA DA SUSCETIBILIDADE A OCORRÊNCIA DE FOGO EM VEGETAÇÃO NO OESTE METROPOLITANO FLUMINENSE",
+    "id": "166"
+  },
+  {
+    "from": "MANOEL DO COUTO FERNANDES",
+    "to": "Gustavo Mota de Sousa",
+    "kind": "formacao",
+    "year": "2013",
+    "level": "Doutorado",
+    "id": "48"
+  },
+  {
+    "from": "Edson Vicente da Silva",
+    "to": "Juliana Felipe Farias",
+    "kind": "formacao",
+    "year": "2012",
+    "level": "Mestrado",
+    "id": "34"
+  },
+  {
+    "from": "Juliana Felipe Farias",
+    "to": "Miqueias Rildo de Souza Silva",
+    "kind": "orientacao",
+    "year": "2020",
+    "title": "DELIMITAÇÃO DE UNIDADES GEOECOLÓGICAS COMO SUBSÍDIO PARA O PLANEJAMENTO AMBIENTAL NO ALTO CURSO DA BACIA HIDROGRÁFICA DO RIO POTENGI-RN (ACBHRP-RN)",
+    "id": "122"
+  },
+  {
+    "from": "EDSON VICENTE DA SILVA",
+    "to": "Juliana Felipe Farias",
+    "kind": "formacao",
+    "year": "2015",
+    "level": "Doutorado",
+    "id": "66"
+  },
+  {
+    "from": "Juliana Felipe Farias",
+    "to": "Gabriella Cristina Araujo de Lima",
+    "kind": "orientacao",
+    "year": "2021",
+    "title": "GEOECOLOGIA DAS PAISAGENS APLICADA AO PLANEJAMENTO AMBIENTAL NA BACIA HIDROGRÁFICA DO RIO PITIMBU/RN - BRASIL",
+    "id": "131"
+  },
+  {
+    "from": "Juliana Felipe Farias",
+    "to": "Marcellus Silva Arruda Miranda",
+    "kind": "orientacao",
+    "year": "2022",
+    "title": "ESTADO AMBIENTAL E GRAUS DE SUSTENTABILIDADE DA BACIA HIDROGRÁFICA DO RIO DO CARMO-RN, BRASIL",
+    "id": "139"
+  },
+  {
+    "from": "Juliana Felipe Farias",
+    "to": "Marcellus Silva Arruda Miranda",
+    "kind": "orientacao",
+    "year": "2022",
+    "title": "ESTADO AMBIENTAL E GRAUS DE SUSTENTABILIDADE DA BACIA HIDROGRÁFICA DO RIO DO CARMO-RN, BRASIL",
+    "id": "140"
+  },
+  {
+    "from": "Juliana Felipe Farias",
+    "to": "Marlon Nelo de Lima",
+    "kind": "orientacao",
+    "year": "2025",
+    "title": "DIAGNÓSTICO INTEGRADO DA BACIA HIDROGRÁFICA DO RIO JACU/PB-RN, BRASIL: USO, OCUPAÇÃO E COMPARTIMENTAÇÃO GEOECOLÓGICA",
+    "id": "178"
+  },
+  {
+    "from": "SELMA SIMÕES DE CASTRO",
+    "to": "Karla Maria Silva de Faria",
+    "kind": "formacao",
+    "year": "2011",
+    "level": "Doutorado",
+    "id": "26"
+  },
+  {
+    "from": "Karla Maria Silva de Faria",
+    "to": "Rosane Borges de Oliveira",
+    "kind": "orientacao",
+    "year": "2019",
+    "title": "Geoecologia das paisagens do cerrado: análise das relações socioambientais na bacia hidrográfica do rio Tocantinzinho (GO)",
+    "id": "112"
+  },
+  {
+    "from": "Karla Maria Silva de Faria",
+    "to": "Jaqueline Gomes Batista",
+    "kind": "orientacao",
+    "year": "2021",
+    "title": "DINÂMICA DA PAISAGEM DA MICROBACIA HIDROGRÁFICA BARREIRA BELA, GOIÁS, ENTRE 1990 E 2020",
+    "id": "128"
+  },
+  {
+    "from": "Karla Maria Silva de Faria",
+    "to": "Rosana de Oliveira Lima",
+    "kind": "orientacao",
+    "year": "2023",
+    "title": "Gestão integrada da paisagem: a geoecologia na análise da bacia do rio Piracanjuba (GO)",
+    "id": "148"
+  },
+  {
+    "from": "Karla Maria Silva de Faria",
+    "to": "Anderson Rodrigues Sobrinho",
+    "kind": "orientacao",
+    "year": "2023",
+    "title": "USO PÚBLICO DO PARQUE ESTADUAL DE SERRA NOVA E TALHADO (MG): impactos socioambientais do turismo e as potencialidades para a sustentabilidade",
+    "id": "152"
+  },
+  {
+    "from": "Karla Maria Silva de Faria",
+    "to": "Luciano Cardoso Silva",
+    "kind": "orientacao",
+    "year": "2023",
+    "title": "O EXERCÍCIO DA CIDADANIA NO ENSINO DE GEOGRAFIA: UM OLHAR PARA A MICROBACIA DO CÓRREGO TAGUATINGA",
+    "id": "153"
+  },
+  {
+    "from": "MARTA CELINA LINHARES SALES",
+    "to": "Manoel Ciricio Pereira Neto",
+    "kind": "formacao",
+    "year": "2016",
+    "level": "Doutorado",
+    "id": "77"
+  },
+  {
+    "from": "Manoel Ciricio Pereira Neto",
+    "to": "Maria Carolina de Santana Peixoto",
+    "kind": "orientacao",
+    "year": "2020",
+    "title": "ESTRUTURA DA PAISAGEM E SUSCEPTIBILIDADE À DESERTIFICAÇÃO A PARTIR DE INDICADORES BIOFÍSICOS NO MUNICÍPIO DE ASSÚ/RN",
+    "id": "114"
+  },
+  {
+    "from": "ANA LUIZA COELHO NETTO",
+    "to": "Manoel do Couto Fernandes",
+    "kind": "formacao",
+    "year": "1998",
+    "level": "Mestrado",
+    "id": "4"
+  },
+  {
+    "from": "Manoel do Couto Fernandes",
+    "to": "Gustavo Mota de Sousa",
+    "kind": "orientacao",
+    "year": "2009",
+    "title": "MAPEAMENTO GEOECOLÓGICO DA POTENCIALIDADE A OCORRÊNCIA DE INCÊNDIOS NO MACIÇO DA PEDRA",
+    "id": "23"
+  },
+  {
+    "from": "PAULO MARCIO LEAL DE MENEZES",
+    "to": "Manoel do Couto Fernandes",
+    "kind": "formacao",
+    "year": "2004",
+    "level": "Doutorado",
+    "id": "14"
+  },
+  {
+    "from": "Manoel do Couto Fernandes",
+    "to": "Gustavo W. Tomzhinski",
+    "kind": "orientacao",
+    "year": "2012",
+    "title": "Análise Geoecológica Dos Incêndios Florestais No Parque Nacional Do Itatiaia",
+    "id": "37"
+  },
+  {
+    "from": "Manoel do Couto Fernandes",
+    "to": "Pedro Henrique Ferreira Coura",
+    "kind": "orientacao",
+    "year": "2012",
+    "title": "AVALIAÇÃO DAS ÁREAS DE PRESERVAÇÃO PERMANENTE EM SUPERFÍCIE REAL NA ÁREA DE PROTEÇÃO AMBIENTAL DE PETROPOLIS-RJ",
+    "id": "38"
+  },
+  {
+    "from": "Manoel do Couto Fernandes",
+    "to": "Gustavo Mota de Sousa",
+    "kind": "orientacao",
+    "year": "2013",
+    "title": "Modelagem Do Conhecimento Aplicada Ao Estudo Da Susceptibilidade À Ocorrência De Incêndios No Parque Nacional Do Itatiaia",
+    "id": "48"
+  },
+  {
+    "from": "Manoel do Couto Fernandes",
+    "to": "Gabriel Lousada Borges",
+    "kind": "orientacao",
+    "year": "2017",
+    "title": "ANÁLISE GEOECOLÓGICA DA DINÂMICA DA PAISAGEM DO ESTADO DO RIO DE JANEIRO: UMA PROPOSTA DE ROTINA PARA O USO DA SUPERFÍCIE MODELADA",
+    "id": "90"
+  },
+  {
+    "from": "Manoel do Couto Fernandes",
+    "to": "Luciana Viana Neves",
+    "kind": "orientacao",
+    "year": "2017",
+    "title": "ESTUDO GEOECOLÓGICO DE DESLIZAMENTOS E INUNDAÇÕES EM PETRÓPOLIS (RJ): REFLEXÕES SOBRE O PARADOXO DO PRIMEIRO DISTRITO LUCIANA",
+    "id": "91"
+  },
+  {
+    "from": "Manoel do Couto Fernandes",
+    "to": "Akel da Silva Saliba",
+    "kind": "orientacao",
+    "year": "2024",
+    "title": "Análise da perda da vegetação secundária nos municípios litorâneos da Costa do Descobrimento e Extremo Sul - BA através do uso das geotecnologias",
+    "id": "169"
+  },
+  {
+    "from": "EDSON VICENTE DA SILVA",
+    "to": "Maria Rita Vidal",
+    "kind": "formacao",
+    "year": "2014",
+    "level": "Doutorado",
+    "id": "56"
+  },
+  {
+    "from": "Maria Rita Vidal",
+    "to": "Keila Patricia dos Santos Sousa",
+    "kind": "orientacao",
+    "year": "2023",
+    "title": "FORMAÇÕES CAMPESTRES EM CAMETÁ-PA: ANÁLISE INTEGRADA DAS CAMPINARANAS E CAMPINAS",
+    "id": "160"
+  },
+  {
+    "from": "ANA LUIZA COELHO NETTO",
+    "to": "Paulo Marcio Leal de Menezes",
+    "kind": "formacao",
+    "year": "2000",
+    "level": "Doutorado",
+    "id": "9"
+  },
+  {
+    "from": "Paulo Marcio Leal de Menezes",
+    "to": "Manoel do Couto Fernandes",
+    "kind": "orientacao",
+    "year": "2004",
+    "title": "Desenvolvimento de Rotina de Obtenção de Observações em superfície Real: Uma Aplicação em Análises Geoecológicas",
+    "id": "14"
+  },
+  {
+    "from": "CENIRA MARIA LUPINACCI CUNHA",
+    "to": "Simone Emiko Sato",
+    "kind": "formacao",
+    "year": "2012",
+    "level": "Doutorado",
+    "id": "42"
+  },
+  {
+    "from": "Simone Emiko Sato",
+    "to": "Giovane de Oliveira Bonilha",
+    "kind": "orientacao",
+    "year": "2019",
+    "title": "ZONEAMENTO GEOAMBIENTAL MEDIANTE APLICAÇÃO DA GEOECOLOGIA DE PAISAGENS: ORDENAMENTO TERRITORIAL DO MUNICÍPIO DO RIO GRANDE/RS",
+    "id": "108"
+  },
+  {
+    "from": "Simone Emiko Sato",
+    "to": "Marilia Silva da Costa",
+    "kind": "orientacao",
+    "year": "2020",
+    "title": "IDENTIFICAÇÃO E ANÁLISE DE UNIDADES GEOAMBIENTAIS NA ESTAÇÃO ECOLÓGICA DO TAIM (RS): SUBSÍDIOS AO PLANEJAMENTO AMBIENTAL",
+    "id": "113"
+  },
+  {
+    "from": "FELISBERTO CAVALHEIRO",
+    "to": "Yuri Tavares Rocha",
+    "kind": "formacao",
+    "year": "1999",
+    "level": "Mestrado",
+    "id": "6"
+  },
+  {
+    "from": "Yuri Tavares Rocha",
+    "to": "Jéssica Vieira de Faria",
+    "kind": "orientacao",
+    "year": "2018",
+    "title": "Paisagens de Torre de Pedra (SP): avaliação do potencial geoecológico das paisagens e subsídios ao planejamento territorial",
+    "id": "107"
+  }
+]
