@@ -9,3 +9,6 @@ filiacao_academica.html + filiacao_dados.json = rede de orientação.
 Para atualizar palavras-chave futuramente: edite os campos palavrasChave, termosIndexacao, fontePalavras e situacao em publicacoes.json, mantendo os demais campos.
 
 Não abra o HTML diretamente no computador para testar o carregamento de JSON; publique em GitHub Pages ou servidor local.
+
+ATUALIZAÇÃO VISUAL: logomarca do Observatório no topo da página inicial; seção de organização e vinculação institucional com GEOPAC, LABOGEF, IESA e UFG nesta ordem; organização atribuída à Prof.ª Dr.ª Karla Maria Silva de Faria. A seção duplicada de filiação foi removida da página de teses; a página independente e o menu de filiação foram preservados.
+As imagens estão na pasta imagens, que deve ser enviada integralmente ao GitHub.
