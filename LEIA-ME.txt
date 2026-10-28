@@ -1,10 +1,11 @@
-CATÁLOGO DE TESES E DISSERTAÇÕES EM GEOECOLOGIA — LABOGEF/UFG
+OBSERVATÓRIO DA PRODUÇÃO CIENTÍFICA EM GEOECOLOGIA DAS PAISAGENS
 
-1. Publique os arquivos index.html e dados.json na raiz de um repositório público no GitHub.
-2. Em Settings > Pages, escolha Deploy from a branch, main, / (root), e salve.
-3. Aguarde o endereço https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/ ficar disponível.
-4. Na página do LABOGEF, incorpore:
-<iframe src="https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/" width="100%" height="1000" style="border:0" title="Banco de Teses e Dissertações em Geoecologia" loading="lazy"></iframe>
-5. Para atualizar: edite a planilha original e gere novamente dados.json com os mesmos nomes de campos. Não altere o arquivo original para publicação.
+Envie todos os arquivos desta pasta para a RAIZ do repositório GitHub Pages.
+index.html = página inicial.
+teses.html + dados.json = catálogo de teses e dissertações.
+publicacoes.html + publicacoes.json = catálogo de artigos, livros e capítulos.
+filiacao_academica.html + filiacao_dados.json = rede de orientação.
 
-IMPORTANTE: os links foram preservados conforme a planilha, mas NÃO foram validados na web. O arquivo CSV inclui todos os registros originais e pode ser usado para conferência. A base contém 179 registros não vazios. Possíveis duplicatas precisam de revisão humana. O catálogo é público; não publique dados restritos.
+Para atualizar palavras-chave futuramente: edite os campos palavrasChave, termosIndexacao, fontePalavras e situacao em publicacoes.json, mantendo os demais campos.
+
+Não abra o HTML diretamente no computador para testar o carregamento de JSON; publique em GitHub Pages ou servidor local.
