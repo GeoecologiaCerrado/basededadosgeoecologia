@@ -1,0 +1,24 @@
+ATUALIZAÇÃO INTEGRADA DO OBSERVATÓRIO — 01/11/2026
+Registros bibliográficos: 179
+Ocorrências classificadas: 693
+Grupos temáticos: 7
+Trabalhos com ocorrências vinculadas: 179
+Divergências de título entre a base e a planilha de ocorrências: 0
+Ocorrências sem identificador válido: 0
+Grupos presentes nos dados mas ausentes da lista de sete grupos: []
+Distribuição dos grupos (ocorrências):
+ - Fundamentos e métodos geoecológicos: 184
+ - Territórios e ambientes de estudo: 158
+ - Conservação e sustentabilidade: 88
+ - Cartografia e Geotecnologias: 87
+ - Dinâmica, impactos e vulnerabilidades: 81
+ - Planejamento ambiental e territorial: 69
+ - Campo disciplinar: 26
+
+OBSERVAÇÕES:
+- Dados bibliográficos originais preservados em dados.csv e na planilha de classificação.
+- dados.json enriquecido com gruposTematicos e termosClassificados por registro.
+- Contagem temática por ocorrência, não por trabalhos únicos.
+- Possível duplicação bibliográfica mantida, sem exclusão automática.
+- Publicações científicas mantidas no arquivo original publicacoes.json.
+- Não houve envio automático ao GitHub nem validação de links externos.

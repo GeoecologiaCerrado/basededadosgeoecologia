@@ -1,0 +1,33 @@
+RELATÓRIO DE CONFERÊNCIA — OBSERVATÓRIO DE GEOECOLOGIA DAS PAISAGENS
+Base: dados_palavraschave_revisadas.csv
+Registros: 179
+Período: 1997–2025
+Instituições distintas: 54
+Possíveis duplicações por autor+título: 1
+
+DUPLICAÇÕES PARA CONFERÊNCIA (não excluídas):
+Título: estado ambiental e graus de sustentabilidade da bacia hidrográfica do rio do carmo-rn, brasil
+Autor: marcellus silva arruda miranda
+Linhas no CSV: 140, 141
+
+CAMPOS VAZIOS:
+ano: 0
+regiao: 0
+uf: 0
+universidade: 0
+autor: 0
+titulo: 0
+nivel: 0
+palavrasChave: 2
+orientador: 1
+link: 1
+id: 0
+linhaOriginal: 0
+palavrasChaveOriginal: 2
+palavrasChavePadronizadas: 2
+
+NOTAS:
+As versões anteriores de 182–185 registros não foram incorporadas para evitar reintroduzir registros descartados.
+A planilha de classificação de palavras-chave é disponibilizada separadamente, sem associar automaticamente categorias a registros por correspondência incerta.
+O site usa dados.json com 179 registros e oferece consulta, indicadores e download da classificação.
+Não houve publicação direta no GitHub; é necessário enviar os arquivos do ZIP ao repositório.

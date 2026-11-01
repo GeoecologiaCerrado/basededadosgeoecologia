@@ -1,0 +1,5593 @@
+{
+  "grupos": [
+    {
+      "nome": "Fundamentos e métodos geoecológicos",
+      "ocorrencias": 184,
+      "termosDistintos": 49,
+      "trabalhosDistintos": 136
+    },
+    {
+      "nome": "Territórios e ambientes de estudo",
+      "ocorrencias": 158,
+      "termosDistintos": 117,
+      "trabalhosDistintos": 114
+    },
+    {
+      "nome": "Conservação e sustentabilidade",
+      "ocorrencias": 88,
+      "termosDistintos": 59,
+      "trabalhosDistintos": 63
+    },
+    {
+      "nome": "Cartografia e Geotecnologias",
+      "ocorrencias": 87,
+      "termosDistintos": 54,
+      "trabalhosDistintos": 68
+    },
+    {
+      "nome": "Dinâmica, impactos e vulnerabilidades",
+      "ocorrencias": 81,
+      "termosDistintos": 55,
+      "trabalhosDistintos": 60
+    },
+    {
+      "nome": "Planejamento ambiental e territorial",
+      "ocorrencias": 69,
+      "termosDistintos": 33,
+      "trabalhosDistintos": 58
+    },
+    {
+      "nome": "Campo disciplinar",
+      "ocorrencias": 26,
+      "termosDistintos": 20,
+      "trabalhosDistintos": 23
+    }
+  ],
+  "ocorrencias": [
+    {
+      "registro": 1,
+      "termo": "Geoprocessamento",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Geoprocessamento",
+      "ano": "1997",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 1,
+      "termo": "Zoneamento",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento",
+      "ano": "1997",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 1,
+      "termo": "Análise integrada",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Análise integrada",
+      "ano": "1997",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 2,
+      "termo": "Cartografia de síndoutorado",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Cartografia de síndoutorado",
+      "ano": "1997",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 2,
+      "termo": "Geoecologia: estudos dos processos",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia: estudos dos processos",
+      "ano": "1997",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 3,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "1998",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 3,
+      "termo": "Análise ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Análise ambiental",
+      "ano": "1998",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 4,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "1998",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 4,
+      "termo": "Geo-hidroecologia",
+      "grupo": "Campo disciplinar",
+      "original": "Geo-hidroecologia",
+      "ano": "1998",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 5,
+      "termo": "Desenvolvimento sustentável",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Desenvolvimento sustentável",
+      "ano": "1999",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 5,
+      "termo": "Manejo caíçara",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Manejo caíçara",
+      "ano": "1999",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 6,
+      "termo": "Jardim botânico",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Jardim botânico",
+      "ano": "1999",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 6,
+      "termo": "Paisagismo",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Paisagismo",
+      "ano": "1999",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 6,
+      "termo": "Unidades de paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Unidades de paisagem",
+      "ano": "1999",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 7,
+      "termo": "Meio ambiente",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Meio ambiente",
+      "ano": "1999",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 7,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "1999",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 7,
+      "termo": "Águas",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Águas",
+      "ano": "1999",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 7,
+      "termo": "Turismo",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Turismo",
+      "ano": "1999",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 8,
+      "termo": "Reordenamento",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Reordenamento",
+      "ano": "1999",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 8,
+      "termo": "Uso da terra",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Uso da terra",
+      "ano": "1999",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 8,
+      "termo": "Vegetação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Vegetação",
+      "ano": "1999",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 9,
+      "termo": "Cartografia",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Cartografia",
+      "ano": "2000",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 9,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2000",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 9,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2000",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 9,
+      "termo": "Qualidade ambiental",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Qualidade ambiental",
+      "ano": "2000",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 10,
+      "termo": "Bioindicadores",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Bioindicadores",
+      "ano": "2000",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 10,
+      "termo": "Diatomáceas",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Diatomáceas",
+      "ano": "2000",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 10,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2000",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 10,
+      "termo": "Lagoa araruama-rj",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Lagoa araruama-rj",
+      "ano": "2000",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 10,
+      "termo": "Lag",
+      "grupo": "Campo disciplinar",
+      "original": "Lag",
+      "ano": "2000",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 11,
+      "termo": "Bentos",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Bentos",
+      "ano": "2002",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 11,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2002",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 11,
+      "termo": "Biodive",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Biodive",
+      "ano": "2002",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 11,
+      "termo": "Sedimentos",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Sedimentos",
+      "ano": "2002",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 12,
+      "termo": "Cognição ambiental",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Cognição ambiental",
+      "ano": "2002",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 12,
+      "termo": "Geoecologia humana",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia humana",
+      "ano": "2002",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 12,
+      "termo": "Serra da mantiqueira",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Serra da mantiqueira",
+      "ano": "2002",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 13,
+      "termo": "Análise ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Análise ambiental",
+      "ano": "2003",
+      "instituicao": "UFSC"
+    },
+    {
+      "registro": 13,
+      "termo": "Cartografia geoecológica",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Cartografia geoecológica",
+      "ano": "2003",
+      "instituicao": "UFSC"
+    },
+    {
+      "registro": 13,
+      "termo": "Gestão territorial",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Gestão territorial",
+      "ano": "2003",
+      "instituicao": "UFSC"
+    },
+    {
+      "registro": 14,
+      "termo": "Mde",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Mde",
+      "ano": "2004",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 14,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2004",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 14,
+      "termo": "Geoprocessamento",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Geoprocessamento",
+      "ano": "2004",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 14,
+      "termo": "Superfície real",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Superfície real",
+      "ano": "2004",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 14,
+      "termo": "Doutorado",
+      "grupo": "Campo disciplinar",
+      "original": "Doutorado",
+      "ano": "2004",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 15,
+      "termo": "Mata atlântica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Mata atlântica",
+      "ano": "2004",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 15,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2004",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 15,
+      "termo": "Ocupação humana",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Ocupação humana",
+      "ano": "2004",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 16,
+      "termo": "Geociências",
+      "grupo": "Campo disciplinar",
+      "original": "Geociências",
+      "ano": "2005",
+      "instituicao": "UEM"
+    },
+    {
+      "registro": 16,
+      "termo": "Paisagismo",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Paisagismo",
+      "ano": "2005",
+      "instituicao": "UEM"
+    },
+    {
+      "registro": 16,
+      "termo": "Estudo",
+      "grupo": "Campo disciplinar",
+      "original": "Estudo",
+      "ano": "2005",
+      "instituicao": "UEM"
+    },
+    {
+      "registro": 16,
+      "termo": "Organização do espaço urbano",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Organização do espaço urbano",
+      "ano": "2005",
+      "instituicao": "UEM"
+    },
+    {
+      "registro": 16,
+      "termo": "Apucarana",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Apucarana",
+      "ano": "2005",
+      "instituicao": "UEM"
+    },
+    {
+      "registro": 16,
+      "termo": "Paraná (estado)",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Paraná (estado)",
+      "ano": "2005",
+      "instituicao": "UEM"
+    },
+    {
+      "registro": 16,
+      "termo": "Brasil",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Brasil",
+      "ano": "2005",
+      "instituicao": "UEM"
+    },
+    {
+      "registro": 17,
+      "termo": "Efeito de borda",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Efeito de borda",
+      "ano": "2005",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 17,
+      "termo": "Floresta da tijuca",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Floresta da tijuca",
+      "ano": "2005",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 17,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2005",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 18,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2005",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 18,
+      "termo": "Geografia física",
+      "grupo": "Campo disciplinar",
+      "original": "Geografia física",
+      "ano": "2005",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 19,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2006",
+      "instituicao": "UERJ"
+    },
+    {
+      "registro": 19,
+      "termo": "Geoprocessamento",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Geoprocessamento",
+      "ano": "2006",
+      "instituicao": "UERJ"
+    },
+    {
+      "registro": 19,
+      "termo": "Incêndios",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Incêndios",
+      "ano": "2006",
+      "instituicao": "UERJ"
+    },
+    {
+      "registro": 20,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2006",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 20,
+      "termo": "Hidrologia florestal",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Hidrologia florestal",
+      "ano": "2006",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 20,
+      "termo": "Recuperação de clareiras",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Recuperação de clareiras",
+      "ano": "2006",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 21,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2007",
+      "instituicao": "UEM"
+    },
+    {
+      "registro": 21,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2007",
+      "instituicao": "UEM"
+    },
+    {
+      "registro": 21,
+      "termo": "Fragilidade ambiental",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Fragilidade ambiental",
+      "ano": "2007",
+      "instituicao": "UEM"
+    },
+    {
+      "registro": 22,
+      "termo": "Fragilidade ambiental",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Fragilidade ambiental",
+      "ano": "2007",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 22,
+      "termo": "Processos geoecológicos",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Processos geoecológicos",
+      "ano": "2007",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 22,
+      "termo": "Processos sócio-reprodutores",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Processos sócio-reprodutores",
+      "ano": "2007",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 22,
+      "termo": "Relevo",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Relevo",
+      "ano": "2007",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 23,
+      "termo": "Cartografia geoecológica",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Cartografia geoecológica",
+      "ano": "2009",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 23,
+      "termo": "Incêndios florestais",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Incêndios florestais",
+      "ano": "2009",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 24,
+      "termo": "Zoneamento ambiental",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento ambiental",
+      "ano": "2010",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 24,
+      "termo": "Geomorfologia",
+      "grupo": "Campo disciplinar",
+      "original": "Geomorfologia",
+      "ano": "2010",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 24,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2010",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 25,
+      "termo": "Unidades de conservação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Unidades de conservação",
+      "ano": "2011",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 25,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2011",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 25,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2011",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 26,
+      "termo": "Cerrado",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Cerrado",
+      "ano": "2011",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 26,
+      "termo": "Fragmentação da vegetação",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Fragmentação da vegetação",
+      "ano": "2011",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 26,
+      "termo": "Restauração ambiental",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Restauração ambiental",
+      "ano": "2011",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 27,
+      "termo": "Hidrologia florestal-recuperação de clareiras-geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Hidrologia florestal-recuperação de clareiras-geoecologia",
+      "ano": "2011",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 28,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2011",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 28,
+      "termo": "Bordas floresta-gramíneas",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bordas floresta-gramíneas",
+      "ano": "2011",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 28,
+      "termo": "Topografia",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Topografia",
+      "ano": "2011",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 28,
+      "termo": "Distúrbios ecossistêmicos",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Distúrbios ecossistêmicos",
+      "ano": "2011",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 29,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2011",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 29,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2011",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 29,
+      "termo": "Bacia",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia",
+      "ano": "2011",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 30,
+      "termo": "Área de proteção ambiental",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Área de proteção ambiental",
+      "ano": "2012",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 30,
+      "termo": "Zoneamento ambiental e ordenamento territorial",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento ambiental e ordenamento territorial",
+      "ano": "2012",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 31,
+      "termo": "Zoneamento ambiental",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento ambiental",
+      "ano": "2012",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 31,
+      "termo": "Ambiente ribeirinho",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Ambiente ribeirinho",
+      "ano": "2012",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 31,
+      "termo": "Geossistemas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geossistema",
+      "ano": "2012",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 31,
+      "termo": "Comunidades e gestão territorial",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Comunidades e gestão territorial",
+      "ano": "2012",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 32,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2012",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 32,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2012",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 32,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2012",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 33,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2012",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 34,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2012",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 34,
+      "termo": "Geografia física",
+      "grupo": "Campo disciplinar",
+      "original": "Geografia física",
+      "ano": "2012",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 34,
+      "termo": "Semiárido",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Semiárido",
+      "ano": "2012",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 35,
+      "termo": "Unidades de paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Unidades de paisagem",
+      "ano": "2012",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 35,
+      "termo": "Tipologias de orla marítima",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Tipologias de orla marítima",
+      "ano": "2012",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 36,
+      "termo": "Ecologia de paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Ecologia de paisagem",
+      "ano": "2012",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 36,
+      "termo": "Cerrado",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Cerrado",
+      "ano": "2012",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 36,
+      "termo": "Fragmentação",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Fragmentação",
+      "ano": "2012",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 36,
+      "termo": "Software fragstats",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Software fragstats",
+      "ano": "2012",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 36,
+      "termo": "Remanescentes",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Remanescentes",
+      "ano": "2012",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 36,
+      "termo": "Uso antrópico",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Uso antrópico",
+      "ano": "2012",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 36,
+      "termo": "Conservação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Conservação",
+      "ano": "2012",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 37,
+      "termo": "Cartografia geoecológica",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Cartografia geoecológica",
+      "ano": "2012",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 37,
+      "termo": "Geoprocessamento",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Geoprocessamento",
+      "ano": "2012",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 37,
+      "termo": "Regime de fogo",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Regime de fogo",
+      "ano": "2012",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 37,
+      "termo": "Unidades de conservação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Unidades de conservação",
+      "ano": "2012",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 38,
+      "termo": "?",
+      "grupo": "Campo disciplinar",
+      "original": "?",
+      "ano": "2012",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 39,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2012",
+      "instituicao": "UFS"
+    },
+    {
+      "registro": 39,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2012",
+      "instituicao": "UFS"
+    },
+    {
+      "registro": 40,
+      "termo": "Abastecimento de água",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Abastecimento de água",
+      "ano": "2012",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 40,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2012",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 40,
+      "termo": "Chapéu d’uvas",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Chapéu d’uvas",
+      "ano": "2012",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 41,
+      "termo": "Zoneamento geoambiental",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento geoambiental",
+      "ano": "2012",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 41,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "geoecologia das paisagens",
+      "ano": "2012",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 42,
+      "termo": "Zoneamento geoambiental",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento geoambiental",
+      "ano": "2012",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 42,
+      "termo": "Litoral",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Litoral",
+      "ano": "2012",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 42,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2012",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 43,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2012",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 43,
+      "termo": "Geossistemas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geossistemas",
+      "ano": "2012",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 43,
+      "termo": "Região cacaueira",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Região cacaueira",
+      "ano": "2012",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 44,
+      "termo": "Zoneamento geoambiental",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento geoambiental",
+      "ano": "2012",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 44,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2012",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 44,
+      "termo": "Uso e ocupação da terra",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Uso e ocupação da terra",
+      "ano": "2012",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 45,
+      "termo": "Educação ambiental dialógica",
+      "grupo": "Campo disciplinar",
+      "original": "Educação ambiental dialógica",
+      "ano": "2013",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 45,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2013",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 45,
+      "termo": "Práticas ambientais",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Práticas ambientais",
+      "ano": "2013",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 46,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2013",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 46,
+      "termo": "Evolução e estado da paisagem",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Evolução e estado da paisagem",
+      "ano": "2013",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 46,
+      "termo": "Favorabilidade abiótica recuperação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Favorabilidade abiótica recuperação",
+      "ano": "2013",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 47,
+      "termo": "Unidades de paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Unidades de paisagem",
+      "ano": "2013",
+      "instituicao": "UFPR"
+    },
+    {
+      "registro": 47,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "geoecologia",
+      "ano": "2013",
+      "instituicao": "UFPR"
+    },
+    {
+      "registro": 47,
+      "termo": "Ecologia urbana",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "ecologia urbana",
+      "ano": "2013",
+      "instituicao": "UFPR"
+    },
+    {
+      "registro": 47,
+      "termo": "Santa felicidade – curitiba/pr",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "santa felicidade – curitiba/pr",
+      "ano": "2013",
+      "instituicao": "UFPR"
+    },
+    {
+      "registro": 48,
+      "termo": "Incêndios florestais",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Incêndios florestais",
+      "ano": "2013",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 48,
+      "termo": "Cartografia geoecológica",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Cartografia geoecológica",
+      "ano": "2013",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 48,
+      "termo": "Geobia",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Geobia",
+      "ano": "2013",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 48,
+      "termo": "Mineração de dados",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Mineração de dados",
+      "ano": "2013",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 49,
+      "termo": "Zoneamento geoambiental",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento geoambiental",
+      "ano": "2013",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 49,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2013",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 49,
+      "termo": "Estado geoecológico",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Estado geoecológico",
+      "ano": "2013",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 49,
+      "termo": "Fragilidade ambiental",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Fragilidade ambiental",
+      "ano": "2013",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 50,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2013",
+      "instituicao": "UNESP/BOT"
+    },
+    {
+      "registro": 50,
+      "termo": "Sistemas de informações geográficas",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Sistemas de informações geográficas",
+      "ano": "2013",
+      "instituicao": "UNESP/BOT"
+    },
+    {
+      "registro": 50,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2013",
+      "instituicao": "UNESP/BOT"
+    },
+    {
+      "registro": 50,
+      "termo": "Recursos hídricos",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Recursos hídricos",
+      "ano": "2013",
+      "instituicao": "UNESP/BOT"
+    },
+    {
+      "registro": 51,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2013",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 51,
+      "termo": "Gerenciamento costeiro",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Gerenciamento costeiro",
+      "ano": "2013",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 51,
+      "termo": "Zoneamento",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento",
+      "ano": "2013",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 51,
+      "termo": "Zona costeira",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Zona costeira",
+      "ano": "2013",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 51,
+      "termo": "Uso da terra",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Uso da terra",
+      "ano": "2013",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 52,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2013",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 52,
+      "termo": "Ecologia da paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "ecologia da paisagem",
+      "ano": "2013",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 52,
+      "termo": "Estrutura da paisagem",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "estrutura da paisagem",
+      "ano": "2013",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 52,
+      "termo": "Ilha comprida",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "ilha comprida",
+      "ano": "2013",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 52,
+      "termo": "Conservação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "conservação",
+      "ano": "2013",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 53,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2014",
+      "instituicao": "PUC/MG"
+    },
+    {
+      "registro": 53,
+      "termo": "Teoria de sistemas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Teoria de sistemas",
+      "ano": "2014",
+      "instituicao": "PUC/MG"
+    },
+    {
+      "registro": 53,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2014",
+      "instituicao": "PUC/MG"
+    },
+    {
+      "registro": 53,
+      "termo": "Geossistemas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geossistemas",
+      "ano": "2014",
+      "instituicao": "PUC/MG"
+    },
+    {
+      "registro": 53,
+      "termo": "Compartimentos de paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Compartimentos de paisagem",
+      "ano": "2014",
+      "instituicao": "PUC/MG"
+    },
+    {
+      "registro": 53,
+      "termo": "Cerrado",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Cerrado",
+      "ano": "2014",
+      "instituicao": "PUC/MG"
+    },
+    {
+      "registro": 54,
+      "termo": "Geossistemas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geossistemas",
+      "ano": "2014",
+      "instituicao": "UERJ"
+    },
+    {
+      "registro": 54,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "geoecologia da paisagem",
+      "ano": "2014",
+      "instituicao": "UERJ"
+    },
+    {
+      "registro": 54,
+      "termo": "Natureza",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "natureza",
+      "ano": "2014",
+      "instituicao": "UERJ"
+    },
+    {
+      "registro": 54,
+      "termo": "Unidades de conservação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "unidades de conservação",
+      "ano": "2014",
+      "instituicao": "UERJ"
+    },
+    {
+      "registro": 54,
+      "termo": "Análise morfométrica",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "análise morfométrica",
+      "ano": "2014",
+      "instituicao": "UERJ"
+    },
+    {
+      "registro": 54,
+      "termo": "Parque natural municipal montanhas de teresópolis",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "parque natural municipal montanhas de teresópolis",
+      "ano": "2014",
+      "instituicao": "UERJ"
+    },
+    {
+      "registro": 55,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2014",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 55,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "bacia hidrográfica",
+      "ano": "2014",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 55,
+      "termo": "Sensoriamento remoto",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "sensoriamento remoto",
+      "ano": "2014",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 55,
+      "termo": "Sistemas de informação geográfica",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "sistemas de informação geográfica",
+      "ano": "2014",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 55,
+      "termo": "Rio gramame",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "rio gramame",
+      "ano": "2014",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 56,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2014",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 56,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "planejamento ambiental",
+      "ano": "2014",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 56,
+      "termo": "Área de proteção ambiental",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "área de proteção ambiental",
+      "ano": "2014",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 57,
+      "termo": "Geoecologia-paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia-paisagem",
+      "ano": "2014",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 57,
+      "termo": "Análise baseada em objeto",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Análise baseada em objeto",
+      "ano": "2014",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 57,
+      "termo": "Classificação da paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Classificação da paisagem",
+      "ano": "2014",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 57,
+      "termo": "Detecção de mudança por trajetória evolutiva",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Detecção de mudança por trajetória evolutiva",
+      "ano": "2014",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 57,
+      "termo": "Regressões ponderadas geograficamente",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Regressões ponderadas geograficamente",
+      "ano": "2014",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 58,
+      "termo": "Análise integrada da paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Análise integrada da paisagem",
+      "ano": "2014",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 58,
+      "termo": "Unidades de paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "unidades de paisagem",
+      "ano": "2014",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 58,
+      "termo": "Erosão linear",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "erosão linear",
+      "ano": "2014",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 58,
+      "termo": "Bacia hidrográfica rio itiquira",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "bacia hidrográfica rio itiquira",
+      "ano": "2014",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 58,
+      "termo": "Ordenamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "ordenamento ambiental",
+      "ano": "2014",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 59,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2014",
+      "instituicao": "UFMA"
+    },
+    {
+      "registro": 59,
+      "termo": "Geossistemas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "geossistema",
+      "ano": "2014",
+      "instituicao": "UFMA"
+    },
+    {
+      "registro": 59,
+      "termo": "Lagoa do bacuri",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "lagoa do bacuri",
+      "ano": "2014",
+      "instituicao": "UFMA"
+    },
+    {
+      "registro": 59,
+      "termo": "Magalhães de almeida-ma",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "magalhães de almeida-ma",
+      "ano": "2014",
+      "instituicao": "UFMA"
+    },
+    {
+      "registro": 60,
+      "termo": "Mudanças em canais fluviais",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Mudanças em canais fluviais",
+      "ano": "2014",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 60,
+      "termo": "Índices morfométricos",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Índices morfométricos",
+      "ano": "2014",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 60,
+      "termo": "Geotecnologias",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Geotecnologias",
+      "ano": "2014",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 60,
+      "termo": "Planejamento da paisagem",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento da paisagem",
+      "ano": "2014",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 61,
+      "termo": "Conservação ambiental",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Conservação ambiental",
+      "ano": "2014",
+      "instituicao": "UFRRJ"
+    },
+    {
+      "registro": 61,
+      "termo": "Legislação ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "legislação ambiental",
+      "ano": "2014",
+      "instituicao": "UFRRJ"
+    },
+    {
+      "registro": 61,
+      "termo": "Planejamento territorial",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "planejamento territorial",
+      "ano": "2014",
+      "instituicao": "UFRRJ"
+    },
+    {
+      "registro": 62,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2014",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 62,
+      "termo": "Alta bacia do ribeirão areia dourada",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Alta bacia do ribeirão areia dourada",
+      "ano": "2014",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 62,
+      "termo": "Diagnóstico ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Diagnóstico ambiental",
+      "ano": "2014",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 63,
+      "termo": "Sistema",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Sistema",
+      "ano": "2015",
+      "instituicao": "PUC/MG"
+    },
+    {
+      "registro": 63,
+      "termo": "Geossistemas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geossistema",
+      "ano": "2015",
+      "instituicao": "PUC/MG"
+    },
+    {
+      "registro": 63,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2015",
+      "instituicao": "PUC/MG"
+    },
+    {
+      "registro": 63,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2015",
+      "instituicao": "PUC/MG"
+    },
+    {
+      "registro": 63,
+      "termo": "Unidades de paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Unidades de paisagem",
+      "ano": "2015",
+      "instituicao": "PUC/MG"
+    },
+    {
+      "registro": 64,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2015",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 64,
+      "termo": "Planejamento ambiental e turístico",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental e turístico",
+      "ano": "2015",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 64,
+      "termo": "Tutóia",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Tutóia",
+      "ano": "2015",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 64,
+      "termo": "Maranhão",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Maranhão",
+      "ano": "2015",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 65,
+      "termo": "Análise geoecológica",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Análise geoecológica",
+      "ano": "2015",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 65,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2015",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 65,
+      "termo": "Semiárido",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Semiárido",
+      "ano": "2015",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 66,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2015",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 66,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2015",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 66,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2015",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 66,
+      "termo": "Rio palmeira/ce",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Rio palmeira/ce",
+      "ano": "2015",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 67,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2015",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 67,
+      "termo": "Unidades de paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Unidades de paisagens",
+      "ano": "2015",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 67,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2015",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 67,
+      "termo": "Serviços ambientais e funçoes geoecológicas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Serviços ambientais e funçoes geoecológicas",
+      "ano": "2015",
+      "instituicao": "UFF"
+    },
+    {
+      "registro": 68,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2015",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 68,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2015",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 68,
+      "termo": "Gestão de recursos hídricos",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Gestão de recursos hídricos",
+      "ano": "2015",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 68,
+      "termo": "Córrego guaiçarinha",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Córrego guaiçarinha",
+      "ano": "2015",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 68,
+      "termo": "Pontal do paranapanema",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Pontal do paranapanema",
+      "ano": "2015",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 69,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2015",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 69,
+      "termo": "Zoneamento ambiental",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento ambiental",
+      "ano": "2015",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 69,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2015",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 69,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2015",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 69,
+      "termo": "Balneário da amizade",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Balneário da amizade",
+      "ano": "2015",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 70,
+      "termo": "Proteção ambiental",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Proteção ambiental",
+      "ano": "2015",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 70,
+      "termo": "Recursos naturais - conservação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Recursos naturais - conservação",
+      "ano": "2015",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 70,
+      "termo": "Solos – erosão",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Solos – erosão",
+      "ano": "2015",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 70,
+      "termo": "Vulnerabilidade",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Vulnerabilidade",
+      "ano": "2015",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 70,
+      "termo": "Parque nacional da restinga de jurubatiba (rj)",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Parque nacional da restinga de jurubatiba (rj)",
+      "ano": "2015",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 71,
+      "termo": "Zoneamento geoambiental",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento geoambiental",
+      "ano": "2015",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 71,
+      "termo": "Uso e ocupação da terra",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Uso e ocupação da terra",
+      "ano": "2015",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 71,
+      "termo": "Mapeamento geomorfológico",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Mapeamento geomorfológico",
+      "ano": "2015",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 72,
+      "termo": "Análise da paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Análise da paisagem",
+      "ano": "2015",
+      "instituicao": "UNOESTE"
+    },
+    {
+      "registro": 72,
+      "termo": "Aterro sanitário",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "aterro sanitário",
+      "ano": "2015",
+      "instituicao": "UNOESTE"
+    },
+    {
+      "registro": 72,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "geoecologia",
+      "ano": "2015",
+      "instituicao": "UNOESTE"
+    },
+    {
+      "registro": 72,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "planejamento ambiental",
+      "ano": "2015",
+      "instituicao": "UNOESTE"
+    },
+    {
+      "registro": 72,
+      "termo": "Resíduos sólidos",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "resíduos sólidos",
+      "ano": "2015",
+      "instituicao": "UNOESTE"
+    },
+    {
+      "registro": 73,
+      "termo": "Sistema",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Sistema",
+      "ano": "2016",
+      "instituicao": "PUC/MG"
+    },
+    {
+      "registro": 73,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2016",
+      "instituicao": "PUC/MG"
+    },
+    {
+      "registro": 73,
+      "termo": "Compartimentação da paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Compartimentação da paisagem",
+      "ano": "2016",
+      "instituicao": "PUC/MG"
+    },
+    {
+      "registro": 73,
+      "termo": "Fragilidade ambiental",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Fragilidade ambiental",
+      "ano": "2016",
+      "instituicao": "PUC/MG"
+    },
+    {
+      "registro": 74,
+      "termo": "Manguezal",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Manguezal",
+      "ano": "2016",
+      "instituicao": "UECE"
+    },
+    {
+      "registro": 74,
+      "termo": "Rio ceará",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Rio ceará",
+      "ano": "2016",
+      "instituicao": "UECE"
+    },
+    {
+      "registro": 74,
+      "termo": "Recuperação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Recuperação",
+      "ano": "2016",
+      "instituicao": "UECE"
+    },
+    {
+      "registro": 74,
+      "termo": "Impactos ambientais",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Impactos ambientais",
+      "ano": "2016",
+      "instituicao": "UECE"
+    },
+    {
+      "registro": 75,
+      "termo": "Geoecologia de trilhas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia de trilhas",
+      "ano": "2016",
+      "instituicao": "UERJ"
+    },
+    {
+      "registro": 75,
+      "termo": "Ecologia da paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Ecologia da paisagem",
+      "ano": "2016",
+      "instituicao": "UERJ"
+    },
+    {
+      "registro": 75,
+      "termo": "Geossistemas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geossistemas",
+      "ano": "2016",
+      "instituicao": "UERJ"
+    },
+    {
+      "registro": 75,
+      "termo": "Parques naturais",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Parques naturais",
+      "ano": "2016",
+      "instituicao": "UERJ"
+    },
+    {
+      "registro": 75,
+      "termo": "Uso público",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Uso público",
+      "ano": "2016",
+      "instituicao": "UERJ"
+    },
+    {
+      "registro": 76,
+      "termo": "Desenvolvimento sustentável",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Desenvolvimento sustentável",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 76,
+      "termo": "Turismo de base comunitária",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Turismo de base comunitária",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 76,
+      "termo": "Gestão turística",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Gestão turística",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 76,
+      "termo": "Zoneamento",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 76,
+      "termo": "A arie da via do estevão",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "A arie da via do estevão",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 77,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 77,
+      "termo": "Desertificação",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Desertificação",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 77,
+      "termo": "Ecodinâmica",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Ecodinâmica",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 77,
+      "termo": "Semiárido",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Semiárido",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 77,
+      "termo": "Seridó",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Seridó",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 78,
+      "termo": "Litoral de falésias",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Litoral de falésias",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 78,
+      "termo": "Município de fortim",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Município de fortim",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 78,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 78,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 79,
+      "termo": "Turismo",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Turismo",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 79,
+      "termo": "Geoturismo",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Geoturismo",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 79,
+      "termo": "Zoneamento",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 79,
+      "termo": "Quixadá",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Quixadá",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 80,
+      "termo": "Energia eólica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Energia eólica",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 80,
+      "termo": "Comunidades tradicionais",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Comunidades tradicionais",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 80,
+      "termo": "Impactos socioambientais",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Impactos socioambientais",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 81,
+      "termo": "Evolução da paisagem",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Evolução da paisagem",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 81,
+      "termo": "Intervenções urbanas",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Intervenções urbanas",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 81,
+      "termo": "Requalificação ambiental",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Requalificação ambiental",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 81,
+      "termo": "Gestão ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Gestão ambiental",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 81,
+      "termo": "Rio maranguapinho",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Rio maranguapinho",
+      "ano": "2016",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 82,
+      "termo": "Manguezal",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Manguezal",
+      "ano": "2016",
+      "instituicao": "UFS"
+    },
+    {
+      "registro": 82,
+      "termo": "Dinâmica costeira",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Dinâmica costeira",
+      "ano": "2016",
+      "instituicao": "UFS"
+    },
+    {
+      "registro": 82,
+      "termo": "Derivações antropogênicas",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Derivações antropogênicas",
+      "ano": "2016",
+      "instituicao": "UFS"
+    },
+    {
+      "registro": 83,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2016",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 83,
+      "termo": "Sustentabilidade ambiental",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Sustentabilidade ambiental",
+      "ano": "2016",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 83,
+      "termo": "Paisagem marinho-costeira",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Paisagem marinho-costeira",
+      "ano": "2016",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 83,
+      "termo": "Faixa litorânea",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Faixa litorânea",
+      "ano": "2016",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 83,
+      "termo": "Zoneamento ambiental",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento ambiental",
+      "ano": "2016",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 84,
+      "termo": "Geoprocessamento",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Geoprocessamento",
+      "ano": "2016",
+      "instituicao": "UNIFAL"
+    },
+    {
+      "registro": 84,
+      "termo": "Geossistemas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geossistema",
+      "ano": "2016",
+      "instituicao": "UNIFAL"
+    },
+    {
+      "registro": 84,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "planejamento ambiental",
+      "ano": "2016",
+      "instituicao": "UNIFAL"
+    },
+    {
+      "registro": 85,
+      "termo": "Meio ambiente",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Meio ambiente",
+      "ano": "2016",
+      "instituicao": "UOES"
+    },
+    {
+      "registro": 85,
+      "termo": "Recursos naturais",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Recursos naturais",
+      "ano": "2016",
+      "instituicao": "UOES"
+    },
+    {
+      "registro": 85,
+      "termo": "Mapas temáticos",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Mapas temáticos",
+      "ano": "2016",
+      "instituicao": "UOES"
+    },
+    {
+      "registro": 86,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2017",
+      "instituicao": "UEM"
+    },
+    {
+      "registro": 86,
+      "termo": "Compartimento de paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Compartimento de paisagem",
+      "ano": "2017",
+      "instituicao": "UEM"
+    },
+    {
+      "registro": 86,
+      "termo": "Uso e manejo do solo",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Uso e manejo do solo",
+      "ano": "2017",
+      "instituicao": "UEM"
+    },
+    {
+      "registro": 87,
+      "termo": "Geoconservação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Geoconservação",
+      "ano": "2017",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 87,
+      "termo": "Espeleologia",
+      "grupo": "Campo disciplinar",
+      "original": "Espeleologia",
+      "ano": "2017",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 87,
+      "termo": "Amazônia",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Amazônia",
+      "ano": "2017",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 87,
+      "termo": "Geodiversidade",
+      "grupo": "Campo disciplinar",
+      "original": "Geodiversidade",
+      "ano": "2017",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 88,
+      "termo": "Rio xingu",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Rio xingu",
+      "ano": "2017",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 88,
+      "termo": "Geomorfologia fluvial",
+      "grupo": "Campo disciplinar",
+      "original": "Geomorfologia fluvial",
+      "ano": "2017",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 88,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2017",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 88,
+      "termo": "Belo monte",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Belo monte",
+      "ano": "2017",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 88,
+      "termo": "Hidrelétrica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Hidrelétrica",
+      "ano": "2017",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 89,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2017",
+      "instituicao": "UFGD"
+    },
+    {
+      "registro": 89,
+      "termo": "Fragilidade ambiental",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Fragilidade ambiental",
+      "ano": "2017",
+      "instituicao": "UFGD"
+    },
+    {
+      "registro": 89,
+      "termo": "Impacto ambiental",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Impacto ambiental",
+      "ano": "2017",
+      "instituicao": "UFGD"
+    },
+    {
+      "registro": 90,
+      "termo": "Superfície modelada",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Superfície modelada",
+      "ano": "2017",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 90,
+      "termo": "Geoprocessamento",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Geoprocessamento",
+      "ano": "2017",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 90,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2017",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 90,
+      "termo": "Modelos digitais de elevação",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Modelos digitais de elevação",
+      "ano": "2017",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 90,
+      "termo": "Sistemas de informação geográfi",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Sistemas de informação geográfi",
+      "ano": "2017",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 91,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2017",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 91,
+      "termo": "Vulnerabilidade social",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Vulnerabilidade social",
+      "ano": "2017",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 91,
+      "termo": "Suscetibilidade geobiofísica",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Suscetibilidade geobiofísica",
+      "ano": "2017",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 91,
+      "termo": "Desastres naturais",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Desastres naturais",
+      "ano": "2017",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 91,
+      "termo": "Risco",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Risco",
+      "ano": "2017",
+      "instituicao": "UFRJ"
+    },
+    {
+      "registro": 92,
+      "termo": "Derivações antropogênicas",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Derivações antropogênicas",
+      "ano": "2017",
+      "instituicao": "UFS"
+    },
+    {
+      "registro": 92,
+      "termo": "Unidades geoecológicas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Unidades geoecológicas",
+      "ano": "2017",
+      "instituicao": "UFS"
+    },
+    {
+      "registro": 92,
+      "termo": "Perigos ambientais",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Perigos ambientais",
+      "ano": "2017",
+      "instituicao": "UFS"
+    },
+    {
+      "registro": 92,
+      "termo": "Vulnerabilidade",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Vulnerabilidade",
+      "ano": "2017",
+      "instituicao": "UFS"
+    },
+    {
+      "registro": 92,
+      "termo": "Cenários",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Cenários",
+      "ano": "2017",
+      "instituicao": "UFS"
+    },
+    {
+      "registro": 93,
+      "termo": "Bacia hidrográfica do alto jacuí",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica do alto jacuí",
+      "ano": "2017",
+      "instituicao": "UFSM"
+    },
+    {
+      "registro": 93,
+      "termo": "Bioma mata atlântica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bioma mata atlântica",
+      "ano": "2017",
+      "instituicao": "UFSM"
+    },
+    {
+      "registro": 93,
+      "termo": "Corredor ecológico da quarta colônia",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Corredor ecológico da quarta colônia",
+      "ano": "2017",
+      "instituicao": "UFSM"
+    },
+    {
+      "registro": 94,
+      "termo": "Parques lineares",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Parques lineares",
+      "ano": "2017",
+      "instituicao": "UNSP-RC"
+    },
+    {
+      "registro": 94,
+      "termo": "Ourinhos",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Ourinhos",
+      "ano": "2017",
+      "instituicao": "UNSP-RC"
+    },
+    {
+      "registro": 94,
+      "termo": "Abordagem sistêmica da paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Abordagem sistêmica da paisagem",
+      "ano": "2017",
+      "instituicao": "UNSP-RC"
+    },
+    {
+      "registro": 94,
+      "termo": "Planejamento urbano",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento urbano",
+      "ano": "2017",
+      "instituicao": "UNSP-RC"
+    },
+    {
+      "registro": 95,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2018",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 95,
+      "termo": "Região semiárida",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Região semiárida",
+      "ano": "2018",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 95,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2018",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 95,
+      "termo": "Degradação ambiental",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Degradação ambiental",
+      "ano": "2018",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 96,
+      "termo": "Análise ambiental integrada",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Análise ambiental integrada",
+      "ano": "2018",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 96,
+      "termo": "Geotecnologias",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Geotecnologias",
+      "ano": "2018",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 96,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2018",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 96,
+      "termo": "Vulnerabilidade ambiental",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Vulnerabilidade ambiental",
+      "ano": "2018",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 96,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2018",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 97,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2018",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 97,
+      "termo": "Turismo",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Turismo",
+      "ano": "2018",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 97,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2018",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 98,
+      "termo": "Camocim",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Camocim",
+      "ano": "2018",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 98,
+      "termo": "Geoambiental",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Geoambiental",
+      "ano": "2018",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 98,
+      "termo": "Planejamento territorial",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento territorial",
+      "ano": "2018",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 98,
+      "termo": "Zoneamento",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento",
+      "ano": "2018",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 99,
+      "termo": "Geodiversidade",
+      "grupo": "Campo disciplinar",
+      "original": "Geodiversidade",
+      "ano": "2018",
+      "instituicao": "UFMG"
+    },
+    {
+      "registro": 99,
+      "termo": "Ecologia da paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Ecologia da paisagem",
+      "ano": "2018",
+      "instituicao": "UFMG"
+    },
+    {
+      "registro": 99,
+      "termo": "Educação ambiental",
+      "grupo": "Campo disciplinar",
+      "original": "Educação ambiental",
+      "ano": "2018",
+      "instituicao": "UFMG"
+    },
+    {
+      "registro": 99,
+      "termo": "Geoturismo",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Geoturismo",
+      "ano": "2018",
+      "instituicao": "UFMG"
+    },
+    {
+      "registro": 100,
+      "termo": "Índios paresi",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Índios paresi",
+      "ano": "2018",
+      "instituicao": "UFMT"
+    },
+    {
+      "registro": 100,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "geoecologia da paisagem",
+      "ano": "2018",
+      "instituicao": "UFMT"
+    },
+    {
+      "registro": 100,
+      "termo": "Bacia hidrográfica do rio verde",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "bacia hidrográfica do rio verde",
+      "ano": "2018",
+      "instituicao": "UFMT"
+    },
+    {
+      "registro": 100,
+      "termo": "Relação sociedade-natureza",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "relação sociedade-natureza",
+      "ano": "2018",
+      "instituicao": "UFMT"
+    },
+    {
+      "registro": 101,
+      "termo": "Dinâmica da paisagem",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Dinâmica da paisagem",
+      "ano": "2018",
+      "instituicao": "UFPA"
+    },
+    {
+      "registro": 101,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "geoecologia das paisagens",
+      "ano": "2018",
+      "instituicao": "UFPA"
+    },
+    {
+      "registro": 101,
+      "termo": "Bacia hidrográfica.planejamento ambiental.bacia hidrográficado rio igarapé-açu",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "bacia hidrográfica.planejamento ambiental.bacia hidrográficado rio igarapé-açu",
+      "ano": "2018",
+      "instituicao": "UFPA"
+    },
+    {
+      "registro": 102,
+      "termo": "Projeto orla",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Projeto orla",
+      "ano": "2018",
+      "instituicao": "UFRGS"
+    },
+    {
+      "registro": 102,
+      "termo": "Plano diretor",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Plano diretor",
+      "ano": "2018",
+      "instituicao": "UFRGS"
+    },
+    {
+      "registro": 102,
+      "termo": "Unidades de conservação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Unidades de conservação",
+      "ano": "2018",
+      "instituicao": "UFRGS"
+    },
+    {
+      "registro": 102,
+      "termo": "Comitê gestor",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Comitê gestor",
+      "ano": "2018",
+      "instituicao": "UFRGS"
+    },
+    {
+      "registro": 102,
+      "termo": "Plano de manejo",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Plano de manejo",
+      "ano": "2018",
+      "instituicao": "UFRGS"
+    },
+    {
+      "registro": 103,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2018",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 103,
+      "termo": "Alta bacia do ribeirão areia dourada",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Alta bacia do ribeirão areia dourada",
+      "ano": "2018",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 103,
+      "termo": "Diagnóstico ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Diagnóstico ambiental",
+      "ano": "2018",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 104,
+      "termo": "Cartografia ambiental",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Cartografia ambiental",
+      "ano": "2018",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 104,
+      "termo": "Geomorfologia",
+      "grupo": "Campo disciplinar",
+      "original": "Geomorfologia",
+      "ano": "2018",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 104,
+      "termo": "Geossistemas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geossistemas",
+      "ano": "2018",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 104,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2018",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 104,
+      "termo": "Sistemas naturais",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Sistemas naturais",
+      "ano": "2018",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 105,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2018",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 105,
+      "termo": "Gerenciamento costeiro",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Gerenciamento costeiro",
+      "ano": "2018",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 105,
+      "termo": "Geomorfologia",
+      "grupo": "Campo disciplinar",
+      "original": "Geomorfologia",
+      "ano": "2018",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 105,
+      "termo": "Zoneamento – alcobaça (ba)",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento – alcobaça (ba)",
+      "ano": "2018",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 106,
+      "termo": "Cartografia",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Cartografia",
+      "ano": "2018",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 106,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "paisagem",
+      "ano": "2018",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 106,
+      "termo": "Geoprocessamento",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "geoprocessamento",
+      "ano": "2018",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 106,
+      "termo": "Mapas temáticos",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "mapas temáticos",
+      "ano": "2018",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 106,
+      "termo": "Geografia humana",
+      "grupo": "Campo disciplinar",
+      "original": "geografia humana",
+      "ano": "2018",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 107,
+      "termo": "Benefícios ecossistêmicos",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Benefícios ecossistêmicos",
+      "ano": "2018",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 107,
+      "termo": "Geoturismo",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Geoturismo",
+      "ano": "2018",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 107,
+      "termo": "Morro-testemunho",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Morro-testemunho",
+      "ano": "2018",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 107,
+      "termo": "Torre de pedra",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Torre de pedra",
+      "ano": "2018",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 107,
+      "termo": "Turismo",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Turismo",
+      "ano": "2018",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 107,
+      "termo": "Unidades de paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Unidades de paisagem",
+      "ano": "2018",
+      "instituicao": "USP"
+    },
+    {
+      "registro": 108,
+      "termo": "Geoambiental",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Geoambiental",
+      "ano": "2019",
+      "instituicao": "FURG"
+    },
+    {
+      "registro": 108,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2019",
+      "instituicao": "FURG"
+    },
+    {
+      "registro": 108,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2019",
+      "instituicao": "FURG"
+    },
+    {
+      "registro": 108,
+      "termo": "Zonas",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zonas",
+      "ano": "2019",
+      "instituicao": "FURG"
+    },
+    {
+      "registro": 109,
+      "termo": "Potenciais geoecoturi­sticos",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Potenciais geoecoturi­sticos",
+      "ano": "2019",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 109,
+      "termo": "Unidades de conservação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Unidades de conservação",
+      "ano": "2019",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 109,
+      "termo": "Unidades geoecológicas da paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Unidades geoecológicas da paisagem",
+      "ano": "2019",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 109,
+      "termo": "Segmentos turí­sticos",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Segmentos turí­sticos",
+      "ano": "2019",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 110,
+      "termo": "Geoecologia das paisagens sistemas ambientais zoneamento geoecológico",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens sistemas ambientais zoneamento geoecológico",
+      "ano": "2019",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 111,
+      "termo": "Potenciais geoecoturísticos",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Potenciais geoecoturísticos",
+      "ano": "2019",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 111,
+      "termo": "Unidades de conservação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Unidades de conservação",
+      "ano": "2019",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 111,
+      "termo": "Unidades geoecológicas da paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Unidades geoecológicas da paisagem",
+      "ano": "2019",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 111,
+      "termo": "Segmentos turísticos",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Segmentos turísticos",
+      "ano": "2019",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 112,
+      "termo": "Estrutura da paisagem",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Estrutura da paisagem",
+      "ano": "2019",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 112,
+      "termo": "Unidades geoecossistêmicas",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Unidades geoecossistêmicas",
+      "ano": "2019",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 112,
+      "termo": "Uso da terra",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Uso da terra",
+      "ano": "2019",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 112,
+      "termo": "Conservação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Conservação",
+      "ano": "2019",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 113,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2020",
+      "instituicao": "FURG"
+    },
+    {
+      "registro": 113,
+      "termo": "Diagnóstico ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Diagnóstico ambiental",
+      "ano": "2020",
+      "instituicao": "FURG"
+    },
+    {
+      "registro": 113,
+      "termo": "Unidade de conservação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Unidade de conservação",
+      "ano": "2020",
+      "instituicao": "FURG"
+    },
+    {
+      "registro": 114,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2020",
+      "instituicao": "UERN"
+    },
+    {
+      "registro": 114,
+      "termo": "Indicadores",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Indicadores",
+      "ano": "2020",
+      "instituicao": "UERN"
+    },
+    {
+      "registro": 114,
+      "termo": "Desertificação",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Desertificação",
+      "ano": "2020",
+      "instituicao": "UERN"
+    },
+    {
+      "registro": 114,
+      "termo": "Análise integrada",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Análise integrada",
+      "ano": "2020",
+      "instituicao": "UERN"
+    },
+    {
+      "registro": 114,
+      "termo": "Teoria geossistêmica",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Teoria geossistêmica",
+      "ano": "2020",
+      "instituicao": "UERN"
+    },
+    {
+      "registro": 115,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2020",
+      "instituicao": "UFBA"
+    },
+    {
+      "registro": 115,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2020",
+      "instituicao": "UFBA"
+    },
+    {
+      "registro": 115,
+      "termo": "Modelagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Modelagem",
+      "ano": "2020",
+      "instituicao": "UFBA"
+    },
+    {
+      "registro": 115,
+      "termo": "Turismo",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Turismo",
+      "ano": "2020",
+      "instituicao": "UFBA"
+    },
+    {
+      "registro": 115,
+      "termo": "Unidade de conservação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Unidade de conservação",
+      "ano": "2020",
+      "instituicao": "UFBA"
+    },
+    {
+      "registro": 115,
+      "termo": "Parqueurbano",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Parqueurbano",
+      "ano": "2020",
+      "instituicao": "UFBA"
+    },
+    {
+      "registro": 115,
+      "termo": "Parquesãobartolomeu",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Parquesãobartolomeu",
+      "ano": "2020",
+      "instituicao": "UFBA"
+    },
+    {
+      "registro": 116,
+      "termo": "Impactos socioambientais",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Impactos socioambientais",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 116,
+      "termo": "Energia eólica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Energia eólica",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 116,
+      "termo": "Ecologia política",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Ecologia política",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 116,
+      "termo": "Pequenos lençóis",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Pequenos lençóis",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 116,
+      "termo": "Maranhão",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Maranhão",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 117,
+      "termo": "Dinâmica fluvial",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Dinâmica fluvial",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 117,
+      "termo": "Arquipélago do januário",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "arquipélago do januário",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 117,
+      "termo": "Unidades paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "unidades paisagem",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 117,
+      "termo": "Diagnóstico geoecológico",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "diagnóstico geoecológico",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 117,
+      "termo": "Zoneamento ambiental ribeirinho",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "zoneamento ambiental ribeirinho",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 118,
+      "termo": "Paisagens naturais e culturais",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagens naturais e culturais",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 118,
+      "termo": "Percepção ambienta",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Percepção ambienta",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 118,
+      "termo": "Impactos socioambientais",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Impactos socioambientais",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 118,
+      "termo": "Energia eólica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Energia eólica",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 118,
+      "termo": "Turismo",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Turismo",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 119,
+      "termo": "Zoneamento geoambiental",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento geoambiental",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 119,
+      "termo": "Semiárido",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Semiárido",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 119,
+      "termo": "Açude banabuiú",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Açude banabuiú",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 120,
+      "termo": "Agroecossistema",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Agroecossistema",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 120,
+      "termo": "Sustentabilidade",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Sustentabilidade",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 120,
+      "termo": "Agricultura familiar",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Agricultura familiar",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 121,
+      "termo": "Aventura",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Aventura",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 121,
+      "termo": "Geoturismo",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Geoturismo",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 121,
+      "termo": "Geodiversidade",
+      "grupo": "Campo disciplinar",
+      "original": "Geodiversidade",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 121,
+      "termo": "Sertão",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Sertão",
+      "ano": "2020",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 122,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2020",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 122,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "bacia hidrográfica",
+      "ano": "2020",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 122,
+      "termo": "Uso do solo",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "uso do solo",
+      "ano": "2020",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 123,
+      "termo": "Processos ecossistêmicos",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Processos ecossistêmicos",
+      "ano": "2020",
+      "instituicao": "UFSJ"
+    },
+    {
+      "registro": 123,
+      "termo": "Decomposição da serapilheira",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Decomposição da serapilheira",
+      "ano": "2020",
+      "instituicao": "UFSJ"
+    },
+    {
+      "registro": 123,
+      "termo": "Retenção hídrica da serapilheira",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Retenção hídrica da serapilheira",
+      "ano": "2020",
+      "instituicao": "UFSJ"
+    },
+    {
+      "registro": 123,
+      "termo": "Qualidade nutricional da serapilheira",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Qualidade nutricional da serapilheira",
+      "ano": "2020",
+      "instituicao": "UFSJ"
+    },
+    {
+      "registro": 123,
+      "termo": "Processos funcionais da serapilheira",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Processos funcionais da serapilheira",
+      "ano": "2020",
+      "instituicao": "UFSJ"
+    },
+    {
+      "registro": 124,
+      "termo": "Vegetação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Vegetação",
+      "ano": "2020",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 124,
+      "termo": "Fatores geoecológicos",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Fatores geoecológicos",
+      "ano": "2020",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 124,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2020",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 124,
+      "termo": "Relações geoecológicas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Relações geoecológicas",
+      "ano": "2020",
+      "instituicao": "UNESP-PP"
+    },
+    {
+      "registro": 125,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2020",
+      "instituicao": "UVA-CE"
+    },
+    {
+      "registro": 125,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2020",
+      "instituicao": "UVA-CE"
+    },
+    {
+      "registro": 125,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2020",
+      "instituicao": "UVA-CE"
+    },
+    {
+      "registro": 125,
+      "termo": "Zoneamento",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zoneamento",
+      "ano": "2020",
+      "instituicao": "UVA-CE"
+    },
+    {
+      "registro": 126,
+      "termo": "Região agreste de pernambuco",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Região agreste de pernambuco",
+      "ano": "2021",
+      "instituicao": "FUFSE"
+    },
+    {
+      "registro": 126,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2021",
+      "instituicao": "FUFSE"
+    },
+    {
+      "registro": 126,
+      "termo": "Fitogeografia",
+      "grupo": "Campo disciplinar",
+      "original": "Fitogeografia",
+      "ano": "2021",
+      "instituicao": "FUFSE"
+    },
+    {
+      "registro": 126,
+      "termo": "Sistema territorial",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Sistema territorial",
+      "ano": "2021",
+      "instituicao": "FUFSE"
+    },
+    {
+      "registro": 126,
+      "termo": "Planejamento ambiental conservacionista",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental conservacionista",
+      "ano": "2021",
+      "instituicao": "FUFSE"
+    },
+    {
+      "registro": 126,
+      "termo": "Modelagem preditiva",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Modelagem preditiva",
+      "ano": "2021",
+      "instituicao": "FUFSE"
+    },
+    {
+      "registro": 127,
+      "termo": "Detecção de mudanças",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Detecção de mudanças",
+      "ano": "2021",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 127,
+      "termo": "Uso e ocupação do solo",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Uso e ocupação do solo",
+      "ano": "2021",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 127,
+      "termo": "Modelagem dinâmica",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Modelagem dinâmica",
+      "ano": "2021",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 128,
+      "termo": "Rio araguaia",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Rio araguaia",
+      "ano": "2021",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 128,
+      "termo": "Segundas residências",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Segundas residências",
+      "ano": "2021",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 128,
+      "termo": "Loteamentos rurais",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Loteamentos rurais",
+      "ano": "2021",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 128,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2021",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 128,
+      "termo": "Avaliação geoecológica",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Avaliação geoecológica",
+      "ano": "2021",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 128,
+      "termo": "Impactos ambientais",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Impactos ambientais",
+      "ano": "2021",
+      "instituicao": "UFG"
+    },
+    {
+      "registro": 129,
+      "termo": "Bacia hidrográfica do rio itacaiunas",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica do rio itacaiunas",
+      "ano": "2021",
+      "instituicao": "UFPA"
+    },
+    {
+      "registro": 129,
+      "termo": "Geotecnologia",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Geotecnologia",
+      "ano": "2021",
+      "instituicao": "UFPA"
+    },
+    {
+      "registro": 129,
+      "termo": "Análise da paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Análise da paisagem",
+      "ano": "2021",
+      "instituicao": "UFPA"
+    },
+    {
+      "registro": 129,
+      "termo": "Uso e ocupação da terra",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Uso e ocupação da terra",
+      "ano": "2021",
+      "instituicao": "UFPA"
+    },
+    {
+      "registro": 129,
+      "termo": "Diagnóstico ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Diagnóstico ambiental",
+      "ano": "2021",
+      "instituicao": "UFPA"
+    },
+    {
+      "registro": 130,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2021",
+      "instituicao": "UFPA"
+    },
+    {
+      "registro": 130,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2021",
+      "instituicao": "UFPA"
+    },
+    {
+      "registro": 130,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2021",
+      "instituicao": "UFPA"
+    },
+    {
+      "registro": 130,
+      "termo": "Hidrelétricas",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Hidrelétricas",
+      "ano": "2021",
+      "instituicao": "UFPA"
+    },
+    {
+      "registro": 130,
+      "termo": "Rio xingu",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Rio xingu",
+      "ano": "2021",
+      "instituicao": "UFPA"
+    },
+    {
+      "registro": 131,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2021",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 131,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2021",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 131,
+      "termo": "Rio pitimbu",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Rio pitimbu",
+      "ano": "2021",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 131,
+      "termo": "Ações",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Ações",
+      "ano": "2021",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 131,
+      "termo": "Gestão integrada",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Gestão integrada",
+      "ano": "2021",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 132,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagens",
+      "ano": "2021",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 132,
+      "termo": "Geossistemas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geossistema",
+      "ano": "2021",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 132,
+      "termo": "Degradação ambiental",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Degradação ambiental",
+      "ano": "2021",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 132,
+      "termo": "Baixada santista (sp) – aspectos ambientais",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Baixada santista (sp) – aspectos ambientais",
+      "ano": "2021",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 133,
+      "termo": "Potencialidades paisagísticas",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Potencialidades paisagísticas",
+      "ano": "2022",
+      "instituicao": "FUFSE"
+    },
+    {
+      "registro": 133,
+      "termo": "Análise geoecológica",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Análise geoecológica",
+      "ano": "2022",
+      "instituicao": "FUFSE"
+    },
+    {
+      "registro": 133,
+      "termo": "Energia eólica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Energia eólica",
+      "ano": "2022",
+      "instituicao": "FUFSE"
+    },
+    {
+      "registro": 133,
+      "termo": "Litoral",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Litoral",
+      "ano": "2022",
+      "instituicao": "FUFSE"
+    },
+    {
+      "registro": 134,
+      "termo": "Sistemas agroflorestais integrados",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Sistemas agroflorestais integrados",
+      "ano": "2022",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 134,
+      "termo": "Agrosustentabilidade",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Agrosustentabilidade",
+      "ano": "2022",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 134,
+      "termo": "Preservação ambiental",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Preservação ambiental",
+      "ano": "2022",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 135,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2022",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 135,
+      "termo": "Planície litorânea",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Planície litorânea",
+      "ano": "2022",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 135,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2022",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 136,
+      "termo": "Políticas socioambientais",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Políticas socioambientais",
+      "ano": "2022",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 136,
+      "termo": "Sustentabilidade",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Sustentabilidade",
+      "ano": "2022",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 136,
+      "termo": "Autoidentificação indígena",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Autoidentificação indígena",
+      "ano": "2022",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 136,
+      "termo": "Territorialidade",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Territorialidade",
+      "ano": "2022",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 136,
+      "termo": "Mapas sociais",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Mapas sociais",
+      "ano": "2022",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 137,
+      "termo": "Geossistemas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geossistemas",
+      "ano": "2022",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 137,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2022",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 137,
+      "termo": "Análise geoecológica",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Análise geoecológica",
+      "ano": "2022",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 137,
+      "termo": "Zona costeira",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Zona costeira",
+      "ano": "2022",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 137,
+      "termo": "Priorização de bacias hidrográficas",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Priorização de bacias hidrográficas",
+      "ano": "2022",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 138,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2022",
+      "instituicao": "UFMA"
+    },
+    {
+      "registro": 138,
+      "termo": "Modificações costeiras",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Modificações costeiras",
+      "ano": "2022",
+      "instituicao": "UFMA"
+    },
+    {
+      "registro": 138,
+      "termo": "Degradação ambiental",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Degradação ambiental",
+      "ano": "2022",
+      "instituicao": "UFMA"
+    },
+    {
+      "registro": 139,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2022",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 139,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2022",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 139,
+      "termo": "Semiárido potiguar",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Semiárido potiguar",
+      "ano": "2022",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 140,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2022",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 140,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2022",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 140,
+      "termo": "Semiárido potiguar",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Semiárido potiguar",
+      "ano": "2022",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 141,
+      "termo": "Semiárido",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Semiárido",
+      "ano": "2022",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 141,
+      "termo": "Sig",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Sig",
+      "ano": "2022",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 141,
+      "termo": "Caatinga",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Caatinga",
+      "ano": "2022",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 141,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2022",
+      "instituicao": "UFRN"
+    },
+    {
+      "registro": 142,
+      "termo": "Abordagem geossistêmica",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Abordagem geossistêmica",
+      "ano": "2022",
+      "instituicao": "UFSM"
+    },
+    {
+      "registro": 142,
+      "termo": "Unidades de paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Unidades de paisagens",
+      "ano": "2022",
+      "instituicao": "UFSM"
+    },
+    {
+      "registro": 142,
+      "termo": "Ordenamento territorial",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Ordenamento territorial",
+      "ano": "2022",
+      "instituicao": "UFSM"
+    },
+    {
+      "registro": 142,
+      "termo": "Gestão de recursos hídricos",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Gestão de recursos hídricos",
+      "ano": "2022",
+      "instituicao": "UFSM"
+    },
+    {
+      "registro": 143,
+      "termo": "Caçapava do sul",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Caçapava do sul",
+      "ano": "2022",
+      "instituicao": "UFSM"
+    },
+    {
+      "registro": 143,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2022",
+      "instituicao": "UFSM"
+    },
+    {
+      "registro": 143,
+      "termo": "Patrimônio paisagístico",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Patrimônio paisagístico",
+      "ano": "2022",
+      "instituicao": "UFSM"
+    },
+    {
+      "registro": 143,
+      "termo": "Geoturismo",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Geoturismo",
+      "ano": "2022",
+      "instituicao": "UFSM"
+    },
+    {
+      "registro": 143,
+      "termo": "Geoparque",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Geoparque",
+      "ano": "2022",
+      "instituicao": "UFSM"
+    },
+    {
+      "registro": 144,
+      "termo": "Produção do conhecimento",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Produção do conhecimento",
+      "ano": "2022",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 144,
+      "termo": "Geografia física",
+      "grupo": "Campo disciplinar",
+      "original": "Geografia física",
+      "ano": "2022",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 144,
+      "termo": "Redes",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Redes",
+      "ano": "2022",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 144,
+      "termo": "Teoria dos grafos",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Teoria dos grafos",
+      "ano": "2022",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 145,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2022",
+      "instituicao": "UNIFAP"
+    },
+    {
+      "registro": 145,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2022",
+      "instituicao": "UNIFAP"
+    },
+    {
+      "registro": 145,
+      "termo": "Rio oiapoque",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Rio oiapoque",
+      "ano": "2022",
+      "instituicao": "UNIFAP"
+    },
+    {
+      "registro": 145,
+      "termo": "Compartimentação geoecológica",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Compartimentação geoecológica",
+      "ano": "2022",
+      "instituicao": "UNIFAP"
+    },
+    {
+      "registro": 146,
+      "termo": "Biogeografia",
+      "grupo": "Campo disciplinar",
+      "original": "Biogeografia",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE SANTA CATARINA"
+    },
+    {
+      "registro": 146,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE SANTA CATARINA"
+    },
+    {
+      "registro": 146,
+      "termo": "Mata de araucárias",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Mata de araucárias",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE SANTA CATARINA"
+    },
+    {
+      "registro": 146,
+      "termo": "Áreas protegidas",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Áreas protegidas",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE SANTA CATARINA"
+    },
+    {
+      "registro": 147,
+      "termo": "Semiárido",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Semiárido",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 147,
+      "termo": "Desertificação",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Desertificação",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 147,
+      "termo": "Análise geoecológica",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Análise geoecológica",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 147,
+      "termo": "Planejamento",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 148,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE GOIÁS"
+    },
+    {
+      "registro": 148,
+      "termo": "Bioma cerrado",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bioma cerrado",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE GOIÁS"
+    },
+    {
+      "registro": 148,
+      "termo": "Undiades da paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Undiades da paisagem",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE GOIÁS"
+    },
+    {
+      "registro": 148,
+      "termo": "Indices descritores da paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "indices descritores da paisagem",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE GOIÁS"
+    },
+    {
+      "registro": 149,
+      "termo": "Geocologia das paisagens",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geocologia das paisagens",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 149,
+      "termo": "Saberes locais",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Saberes locais",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 149,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 151,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DA PARAÍBA - CAMPUS JOÃO PESSOA"
+    },
+    {
+      "registro": 151,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "geoecologia",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DA PARAÍBA - CAMPUS JOÃO PESSOA"
+    },
+    {
+      "registro": 151,
+      "termo": "Regionalização",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "regionalização",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DA PARAÍBA - CAMPUS JOÃO PESSOA"
+    },
+    {
+      "registro": 151,
+      "termo": "Tipologias",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "tipologias",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DA PARAÍBA - CAMPUS JOÃO PESSOA"
+    },
+    {
+      "registro": 151,
+      "termo": "Enfoques geoecológicos",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "enfoques geoecológicos",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DA PARAÍBA - CAMPUS JOÃO PESSOA"
+    },
+    {
+      "registro": 151,
+      "termo": "Estado funcional",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "estado funcional",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DA PARAÍBA - CAMPUS JOÃO PESSOA"
+    },
+    {
+      "registro": 152,
+      "termo": "Planejamento turístico",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento turístico",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE GOIÁS"
+    },
+    {
+      "registro": 152,
+      "termo": "Plano de uso público",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Plano de uso público",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE GOIÁS"
+    },
+    {
+      "registro": 152,
+      "termo": "Unidades de conservação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Unidades de conservação",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE GOIÁS"
+    },
+    {
+      "registro": 152,
+      "termo": "Paisagem natural",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem natural",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE GOIÁS"
+    },
+    {
+      "registro": 153,
+      "termo": "Cidadania",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Cidadania",
+      "ano": "2023",
+      "instituicao": "INSTITUTO FEDERAL DE EDUCAÇÃO"
+    },
+    {
+      "registro": 153,
+      "termo": "Ensino de geografia",
+      "grupo": "Campo disciplinar",
+      "original": "Ensino de geografia",
+      "ano": "2023",
+      "instituicao": "INSTITUTO FEDERAL DE EDUCAÇÃO"
+    },
+    {
+      "registro": 153,
+      "termo": "Geossistemas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geossistemas",
+      "ano": "2023",
+      "instituicao": "INSTITUTO FEDERAL DE EDUCAÇÃO"
+    },
+    {
+      "registro": 153,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "paisagem",
+      "ano": "2023",
+      "instituicao": "INSTITUTO FEDERAL DE EDUCAÇÃO"
+    },
+    {
+      "registro": 154,
+      "termo": "Geologia ambiental",
+      "grupo": "Campo disciplinar",
+      "original": "Geologia ambiental",
+      "ano": "2023",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 154,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagens",
+      "ano": "2023",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 154,
+      "termo": "Geomorfologia costeira",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Geomorfologia costeira",
+      "ano": "2023",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 154,
+      "termo": "Vulnerabilidade social",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Vulnerabilidade social",
+      "ano": "2023",
+      "instituicao": "UNICAMP"
+    },
+    {
+      "registro": 155,
+      "termo": "Carajás",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Carajás",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 155,
+      "termo": "Floresta amazônica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Floresta amazônica",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 155,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 155,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 156,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE DE PERNAMBUCO"
+    },
+    {
+      "registro": 156,
+      "termo": "Sais solúveis",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Sais solúveis",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE DE PERNAMBUCO"
+    },
+    {
+      "registro": 156,
+      "termo": "Degradação das águas",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Degradação das águas",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE DE PERNAMBUCO"
+    },
+    {
+      "registro": 157,
+      "termo": "Cerrado",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Cerrado",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE ESTADUAL DE GOIÁS"
+    },
+    {
+      "registro": 157,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "geoecologia da paisagem",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE ESTADUAL DE GOIÁS"
+    },
+    {
+      "registro": 157,
+      "termo": "Vulnerabilidade ambiental",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "vulnerabilidade ambiental",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE ESTADUAL DE GOIÁS"
+    },
+    {
+      "registro": 157,
+      "termo": "Fragilidade ambiental",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "fragilidade ambiental",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE ESTADUAL DE GOIÁS"
+    },
+    {
+      "registro": 158,
+      "termo": "Brejos",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Brejos",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO"
+    },
+    {
+      "registro": 158,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO"
+    },
+    {
+      "registro": 158,
+      "termo": "Impactos ambientais",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Impactos ambientais",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO"
+    },
+    {
+      "registro": 158,
+      "termo": "Uso e ocupação do solo",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Uso e ocupação do solo",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO"
+    },
+    {
+      "registro": 158,
+      "termo": "Reserva benedito",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Reserva benedito",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO"
+    },
+    {
+      "registro": 159,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 159,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 159,
+      "termo": "Plano diretor municipal",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Plano diretor municipal",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 159,
+      "termo": "Guiné- bissau",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Guiné- bissau",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 160,
+      "termo": "Campinas amazônicas",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Campinas amazônicas",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DO PARÁ"
+    },
+    {
+      "registro": 160,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia de paisagens",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DO PARÁ"
+    },
+    {
+      "registro": 160,
+      "termo": "Avaliação de impactos",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Avaliação de impactos",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DO PARÁ"
+    },
+    {
+      "registro": 160,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DO PARÁ"
+    },
+    {
+      "registro": 162,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 162,
+      "termo": "Biogeografia amazônica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Biogeografia amazônica",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 162,
+      "termo": "Dinâmicas de paisagens",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Dinâmicas de paisagens",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 162,
+      "termo": "Pressões antropogênicas",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Pressões antropogênicas",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 162,
+      "termo": "Planejamento biorregional",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento biorregional",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 163,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE ESTADUAL DO MARANHÃO"
+    },
+    {
+      "registro": 163,
+      "termo": "Biogeografia amazônica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Biogeografia amazônica",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE ESTADUAL DO MARANHÃO"
+    },
+    {
+      "registro": 163,
+      "termo": "Dinâmicas de paisagens",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Dinâmicas de paisagens",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE ESTADUAL DO MARANHÃO"
+    },
+    {
+      "registro": 163,
+      "termo": "Pressões antropogênicas",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Pressões antropogênicas",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE ESTADUAL DO MARANHÃO"
+    },
+    {
+      "registro": 163,
+      "termo": "Planejamento biorregional",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento biorregional",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE ESTADUAL DO MARANHÃO"
+    },
+    {
+      "registro": 163,
+      "termo": "Conjunto de antromas",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Conjunto de antromas",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE ESTADUAL DO MARANHÃO"
+    },
+    {
+      "registro": 164,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL"
+    },
+    {
+      "registro": 164,
+      "termo": "Zonas de amortecimento",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Zonas de amortecimento",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL"
+    },
+    {
+      "registro": 164,
+      "termo": "Unidades de conservação",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Unidades de conservação",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL"
+    },
+    {
+      "registro": 164,
+      "termo": "Monumentos naturais",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Monumentos naturais",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL"
+    },
+    {
+      "registro": 164,
+      "termo": "Parques",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Parques",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL"
+    },
+    {
+      "registro": 164,
+      "termo": "Unidades de paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Unidades de paisagem",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL"
+    },
+    {
+      "registro": 164,
+      "termo": "Conservação da biodiversidade",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Conservação da biodiversidade",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL"
+    },
+    {
+      "registro": 164,
+      "termo": "Mato grosso do sul",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Mato grosso do sul",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL"
+    },
+    {
+      "registro": 165,
+      "termo": "Eoecologia de paisagens",
+      "grupo": "Campo disciplinar",
+      "original": "Eoecologia de paisagens",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 165,
+      "termo": "Mapeamento morfoestrutual",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Mapeamento morfoestrutual",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 165,
+      "termo": "Unidades fitoecológicas",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Unidades fitoecológicas",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 165,
+      "termo": "Caatinga",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Caatinga",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 165,
+      "termo": "Bacia hidrográfica do rio seridó",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica do rio seridó",
+      "ano": "2023",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 166,
+      "termo": "Dinâmica de suscetibilidade",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Dinâmica de suscetibilidade",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO"
+    },
+    {
+      "registro": 166,
+      "termo": "Fogo em vegetação",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Fogo em vegetação",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO"
+    },
+    {
+      "registro": 166,
+      "termo": "Omrj",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Omrj",
+      "ano": "2023",
+      "instituicao": "UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO"
+    },
+    {
+      "registro": 167,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2024",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 167,
+      "termo": "Estuários",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Estuários",
+      "ano": "2024",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 167,
+      "termo": "Diagnóstico integrado",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Diagnóstico integrado",
+      "ano": "2024",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 168,
+      "termo": "Orla marítima",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Orla marítima",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DO MARANHÃO"
+    },
+    {
+      "registro": 168,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DO MARANHÃO"
+    },
+    {
+      "registro": 168,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DO MARANHÃO"
+    },
+    {
+      "registro": 169,
+      "termo": "Vegetação secundária",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Vegetação secundária",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DO RIO DE JANEIRO"
+    },
+    {
+      "registro": 169,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DO RIO DE JANEIRO"
+    },
+    {
+      "registro": 169,
+      "termo": "Geotecnologias",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Geotecnologias",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DO RIO DE JANEIRO"
+    },
+    {
+      "registro": 169,
+      "termo": "Desmatamento",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Desmatamento",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DO RIO DE JANEIRO"
+    },
+    {
+      "registro": 170,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2024",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 170,
+      "termo": "Gestão ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Gestão ambiental",
+      "ano": "2024",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 170,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2024",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 171,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO"
+    },
+    {
+      "registro": 171,
+      "termo": "Cartografia de paisagens",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Cartografia de paisagens",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO"
+    },
+    {
+      "registro": 171,
+      "termo": "Nordeste do brasil",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Nordeste do brasil",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO"
+    },
+    {
+      "registro": 172,
+      "termo": "Unidades geoecológicas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Unidades geoecológicas",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DO TOCANTINS"
+    },
+    {
+      "registro": 172,
+      "termo": "Carste",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "carste",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DO TOCANTINS"
+    },
+    {
+      "registro": 172,
+      "termo": "Cavernas",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "cavernas",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DO TOCANTINS"
+    },
+    {
+      "registro": 172,
+      "termo": "Métricas da paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "métricas da paisagem",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DO TOCANTINS"
+    },
+    {
+      "registro": 172,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "geoecologia da paisagem",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DO TOCANTINS"
+    },
+    {
+      "registro": 173,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2024",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 173,
+      "termo": "Campo de dunas",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Campo de dunas",
+      "ano": "2024",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 173,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia das paisagens",
+      "ano": "2024",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 174,
+      "termo": "Bacia hidrográfica",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacia hidrográfica",
+      "ano": "2024",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 174,
+      "termo": "Relevo",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Relevo",
+      "ano": "2024",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 174,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2024",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 174,
+      "termo": "Udo da terra e unidades fisicas",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Udo da terra e unidades fisicas",
+      "ano": "2024",
+      "instituicao": "UNESP-RC"
+    },
+    {
+      "registro": 175,
+      "termo": "Turismo",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Turismo",
+      "ano": "2024",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 175,
+      "termo": "Iinclusão",
+      "grupo": "Campo disciplinar",
+      "original": "Iinclusão",
+      "ano": "2024",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 175,
+      "termo": "Ambiente",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Ambiente",
+      "ano": "2024",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 175,
+      "termo": "Cultura",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Cultura",
+      "ano": "2024",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 175,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagens",
+      "ano": "2024",
+      "instituicao": "UFC"
+    },
+    {
+      "registro": 176,
+      "termo": "Geoecologia da(s) Paisagem(ns)",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia da paisagem",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DO PARÁ"
+    },
+    {
+      "registro": 176,
+      "termo": "Impactos ambientais",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Impactos ambientais",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DO PARÁ"
+    },
+    {
+      "registro": 176,
+      "termo": "Reserva biológica da vida silvestre",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Reserva biológica da vida silvestre",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DO PARÁ"
+    },
+    {
+      "registro": 176,
+      "termo": "Região metropolitana de belém",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Região metropolitana de belém",
+      "ano": "2024",
+      "instituicao": "UNIVERSIDADE FEDERAL DO PARÁ"
+    },
+    {
+      "registro": 177,
+      "termo": "Desenvolvimento sustentável",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Desenvolvimento sustentável",
+      "ano": "2025",
+      "instituicao": "UNIVERSIDADE FEDERAL DE RORAIMA"
+    },
+    {
+      "registro": 177,
+      "termo": "Paisagem",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Paisagem",
+      "ano": "2025",
+      "instituicao": "UNIVERSIDADE FEDERAL DE RORAIMA"
+    },
+    {
+      "registro": 177,
+      "termo": "Geossistemas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geossistema",
+      "ano": "2025",
+      "instituicao": "UNIVERSIDADE FEDERAL DE RORAIMA"
+    },
+    {
+      "registro": 177,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2025",
+      "instituicao": "UNIVERSIDADE FEDERAL DE RORAIMA"
+    },
+    {
+      "registro": 177,
+      "termo": "Geoprocessamento",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Geoprocessamento",
+      "ano": "2025",
+      "instituicao": "UNIVERSIDADE FEDERAL DE RORAIMA"
+    },
+    {
+      "registro": 177,
+      "termo": "Planejamento territorial",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento territorial",
+      "ano": "2025",
+      "instituicao": "UNIVERSIDADE FEDERAL DE RORAIMA"
+    },
+    {
+      "registro": 178,
+      "termo": "Bacias hidrográficas interestaduai",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Bacias hidrográficas interestaduai",
+      "ano": "2025",
+      "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE"
+    },
+    {
+      "registro": 178,
+      "termo": "Diagnóstico geoecológico",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Diagnóstico geoecológico",
+      "ano": "2025",
+      "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE"
+    },
+    {
+      "registro": 178,
+      "termo": "Potencialidades",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Potencialidades",
+      "ano": "2025",
+      "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE"
+    },
+    {
+      "registro": 178,
+      "termo": "Limitações",
+      "grupo": "Dinâmica, impactos e vulnerabilidades",
+      "original": "Limitações",
+      "ano": "2025",
+      "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE"
+    },
+    {
+      "registro": 178,
+      "termo": "Planejamento ambiental",
+      "grupo": "Planejamento ambiental e territorial",
+      "original": "Planejamento ambiental",
+      "ano": "2025",
+      "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE"
+    },
+    {
+      "registro": 179,
+      "termo": "Geossistemas",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geossistema",
+      "ano": "2025",
+      "instituicao": "UNIVERSIDADE FEDERAL DE SANTA MARIA"
+    },
+    {
+      "registro": 179,
+      "termo": "Geoecologia",
+      "grupo": "Fundamentos e métodos geoecológicos",
+      "original": "Geoecologia",
+      "ano": "2025",
+      "instituicao": "UNIVERSIDADE FEDERAL DE SANTA MARIA"
+    },
+    {
+      "registro": 179,
+      "termo": "Patrimônio paisagístico",
+      "grupo": "Conservação e sustentabilidade",
+      "original": "Patrimônio paisagístico",
+      "ano": "2025",
+      "instituicao": "UNIVERSIDADE FEDERAL DE SANTA MARIA"
+    },
+    {
+      "registro": 179,
+      "termo": "Geoparque quarta colônia",
+      "grupo": "Territórios e ambientes de estudo",
+      "original": "Geoparque quarta colônia",
+      "ano": "2025",
+      "instituicao": "UNIVERSIDADE FEDERAL DE SANTA MARIA"
+    },
+    {
+      "registro": 179,
+      "termo": "Unidades de paisagem",
+      "grupo": "Cartografia e Geotecnologias",
+      "original": "Unidades de paisagem",
+      "ano": "2025",
+      "instituicao": "UNIVERSIDADE FEDERAL DE SANTA MARIA"
+    }
+  ],
+  "metodologia": "Classificação vinculada pela coluna Registro da aba Ocorrências por trabalho; grupo consolidado priorizado quando disponível."
+}
